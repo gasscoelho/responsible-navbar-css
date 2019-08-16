@@ -13,4 +13,4 @@ This project was developed to present a responsible navigation bar using only CS
 
 ## Authors
 
-* **Gabriel Coelho** - Full Stack Developer - [gasscoelho](https://github.com/gasscoelho)
+* **Gabriel Coelho** - Full Stack Developer
