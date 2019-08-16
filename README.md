@@ -4,6 +4,7 @@ This project was developed to present a responsible navigation bar using only CS
 
 ## Demo
 
+![](https://media.giphy.com/media/J54ClspzxP4CC30B1M/giphy.gif)
 
 
 ## Built With
