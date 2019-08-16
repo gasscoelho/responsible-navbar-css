@@ -1,6 +1,6 @@
 # Responsible Navbar - CSS
 
-This project was developed to present a responsible navigation bar using only CSS.
+This project was developed to present a responsible navigation bar using only CSS and JSX.
 
 ## Demo
 
