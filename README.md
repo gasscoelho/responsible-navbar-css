@@ -6,40 +6,36 @@ This project was developed to present a responsible navigation bar using only CS
 
 ![](https://media.giphy.com/media/J54ClspzxP4CC30B1M/giphy.gif)
 
-## Built With
+## Get Started
 
-* [ReactJS](https://reactjs.org/)
+Follow the steps below to properly run this application.
 
-## To Run
+#### Clone the repository:
 
-### Cloning the repository
-
-```
+```bash
 git clone https://github.com/gasscoelho/responsible-navbar-css.git
 ```
 
-### Installing the dependencies
-
-Using npm:
-
-```
-npm install
+```bash
+cd responsible-navbar-css
 ```
 
-```
-npm start
-```
+#### Start the application:
 
-Or using yarn:
-
-```
+```bash
 yarn install
 ```
 
-```
+```bash
 yarn start
 ```
 
-## Authors
+*You can also use NPM instead of YARN to install the dependencies and start the application.*
 
-* **Gabriel Coelho** - Full Stack Developer
+## Built With
+
+✨ ReactJS <br />
+
+## Author
+
+**[Gabriel Coelho](https://gasscoelho.me/en)** - Software Engineer
